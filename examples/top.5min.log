@@ -1,0 +1,135 @@
+[info] Loading project definition from C:\Work\singapore\traces\project
+[info] Set current project to traces (in build file:/C:/Work/singapore/traces/)
+[info] Running FindMeetings 
+Input variables:
+	source file: reduced.csv
+	distance threshold: 1.0 meters
+	duration threshold: 300 seconds
+	time epsilon: 7 seconds
+	only first: false
+	full graph: true
+	uid A: 
+	uid B: 
+
+Found 16 uids in the source
+b53b76f9, 51f21bd3: 0 meetings, time = 2,373,723,281ns
+b53b76f9, 3e1a1dd5: 1 meetings, time = 1,401,344,125ns
+b53b76f9, fde19262: 1 meetings, time = 1,329,532,708ns
+b53b76f9, 78b85537: 2 meetings, time = 1,354,965,667ns
+b53b76f9, 600dfbe2: 3 meetings, time = 1,311,658,941ns
+b53b76f9, d05c03a0: 0 meetings, time = 1,380,335,838ns
+b53b76f9, 26fc890b: 1 meetings, time = 1,327,190,269ns
+b53b76f9, 74d917a1: 7 meetings, time = 1,316,982,553ns
+b53b76f9, 8395c4df: 1 meetings, time = 1,313,106,664ns
+b53b76f9, 042e36bd: 1 meetings, time = 1,313,497,272ns
+b53b76f9, d6f0300c: 1 meetings, time = 1,285,477,972ns
+b53b76f9, 95f1b6bd: 2 meetings, time = 1,311,593,739ns
+b53b76f9, f8c4ee12: 0 meetings, time = 1,442,588,539ns
+b53b76f9, 27cb9c6f: 2 meetings, time = 1,303,532,252ns
+b53b76f9, 1bd4e1e0: 0 meetings, time = 1,325,266,211ns
+51f21bd3, 3e1a1dd5: 1 meetings, time = 1,368,588,632ns
+51f21bd3, fde19262: 1 meetings, time = 1,358,364,012ns
+51f21bd3, 78b85537: 0 meetings, time = 1,376,289,095ns
+51f21bd3, 600dfbe2: 0 meetings, time = 1,375,367,213ns
+51f21bd3, d05c03a0: 0 meetings, time = 1,431,375,627ns
+51f21bd3, 26fc890b: 0 meetings, time = 1,398,918,977ns
+51f21bd3, 74d917a1: 0 meetings, time = 1,422,185,784ns
+51f21bd3, 8395c4df: 1 meetings, time = 1,374,575,735ns
+51f21bd3, 042e36bd: 1 meetings, time = 1,747,036,031ns
+51f21bd3, d6f0300c: 0 meetings, time = 2,179,933,639ns
+51f21bd3, 95f1b6bd: 0 meetings, time = 1,487,179,983ns
+51f21bd3, f8c4ee12: 0 meetings, time = 1,496,466,421ns
+51f21bd3, 27cb9c6f: 0 meetings, time = 1,378,147,349ns
+51f21bd3, 1bd4e1e0: 0 meetings, time = 1,390,791,080ns
+3e1a1dd5, fde19262: 0 meetings, time = 1,287,734,078ns
+3e1a1dd5, 78b85537: 0 meetings, time = 1,310,264,345ns
+3e1a1dd5, 600dfbe2: 0 meetings, time = 1,318,826,921ns
+3e1a1dd5, d05c03a0: 0 meetings, time = 1,368,378,538ns
+3e1a1dd5, 26fc890b: 0 meetings, time = 1,337,762,634ns
+3e1a1dd5, 74d917a1: 0 meetings, time = 1,311,384,248ns
+3e1a1dd5, 8395c4df: 0 meetings, time = 1,308,095,779ns
+3e1a1dd5, 042e36bd: 0 meetings, time = 1,295,901,216ns
+3e1a1dd5, d6f0300c: 0 meetings, time = 1,274,631,519ns
+3e1a1dd5, 95f1b6bd: 0 meetings, time = 1,286,366,650ns
+3e1a1dd5, f8c4ee12: 0 meetings, time = 1,417,919,288ns
+3e1a1dd5, 27cb9c6f: 0 meetings, time = 1,295,436,352ns
+3e1a1dd5, 1bd4e1e0: 0 meetings, time = 1,309,195,759ns
+fde19262, 78b85537: 0 meetings, time = 1,309,471,660ns
+fde19262, 600dfbe2: 0 meetings, time = 1,286,909,998ns
+fde19262, d05c03a0: 0 meetings, time = 1,350,507,790ns
+fde19262, 26fc890b: 0 meetings, time = 1,314,227,171ns
+fde19262, 74d917a1: 0 meetings, time = 1,278,614,871ns
+fde19262, 8395c4df: 1 meetings, time = 1,302,132,223ns
+fde19262, 042e36bd: 1 meetings, time = 1,300,762,983ns
+fde19262, d6f0300c: 0 meetings, time = 1,284,487,869ns
+fde19262, 95f1b6bd: 0 meetings, time = 1,294,133,522ns
+fde19262, f8c4ee12: 0 meetings, time = 1,423,158,379ns
+fde19262, 27cb9c6f: 0 meetings, time = 1,285,655,466ns
+fde19262, 1bd4e1e0: 0 meetings, time = 1,308,017,899ns
+78b85537, 600dfbe2: 2 meetings, time = 1,313,328,230ns
+78b85537, d05c03a0: 0 meetings, time = 1,374,122,945ns
+78b85537, 26fc890b: 3 meetings, time = 1,336,173,640ns
+78b85537, 74d917a1: 6 meetings, time = 1,304,858,627ns
+78b85537, 8395c4df: 0 meetings, time = 1,312,639,384ns
+78b85537, 042e36bd: 8 meetings, time = 1,310,041,572ns
+78b85537, d6f0300c: 0 meetings, time = 1,298,341,458ns
+78b85537, 95f1b6bd: 14 meetings, time = 1,331,359,568ns
+78b85537, f8c4ee12: 0 meetings, time = 1,459,710,069ns
+78b85537, 27cb9c6f: 14 meetings, time = 1,330,176,274ns
+78b85537, 1bd4e1e0: 3 meetings, time = 1,338,014,989ns
+600dfbe2, d05c03a0: 0 meetings, time = 1,372,967,422ns
+600dfbe2, 26fc890b: 1 meetings, time = 1,317,845,875ns
+600dfbe2, 74d917a1: 5 meetings, time = 1,285,636,751ns
+600dfbe2, 8395c4df: 1 meetings, time = 1,298,529,819ns
+600dfbe2, 042e36bd: 4 meetings, time = 1,294,629,177ns
+600dfbe2, d6f0300c: 1 meetings, time = 1,283,650,508ns
+600dfbe2, 95f1b6bd: 5 meetings, time = 1,339,110,140ns
+600dfbe2, f8c4ee12: 0 meetings, time = 1,431,498,182ns
+600dfbe2, 27cb9c6f: 4 meetings, time = 1,296,070,863ns
+600dfbe2, 1bd4e1e0: 1 meetings, time = 1,331,133,172ns
+d05c03a0, 26fc890b: 11 meetings, time = 1,407,531,663ns
+d05c03a0, 74d917a1: 10 meetings, time = 1,385,435,470ns
+d05c03a0, 8395c4df: 1 meetings, time = 1,367,833,378ns
+d05c03a0, 042e36bd: 17 meetings, time = 1,376,808,899ns
+d05c03a0, d6f0300c: 1 meetings, time = 1,350,051,980ns
+d05c03a0, 95f1b6bd: 43 meetings, time = 1,379,974,209ns
+d05c03a0, f8c4ee12: 0 meetings, time = 1,495,502,278ns
+d05c03a0, 27cb9c6f: 42 meetings, time = 1,372,177,754ns
+d05c03a0, 1bd4e1e0: 0 meetings, time = 1,383,937,034ns
+26fc890b, 74d917a1: 6 meetings, time = 1,304,469,831ns
+26fc890b, 8395c4df: 1 meetings, time = 1,303,892,673ns
+26fc890b, 042e36bd: 10 meetings, time = 1,320,495,606ns
+26fc890b, d6f0300c: 0 meetings, time = 1,314,329,803ns
+26fc890b, 95f1b6bd: 39 meetings, time = 1,350,411,194ns
+26fc890b, f8c4ee12: 0 meetings, time = 1,482,487,259ns
+26fc890b, 27cb9c6f: 42 meetings, time = 1,346,737,552ns
+26fc890b, 1bd4e1e0: 0 meetings, time = 1,359,588,963ns
+74d917a1, 8395c4df: 0 meetings, time = 1,295,512,421ns
+74d917a1, 042e36bd: 1 meetings, time = 1,291,489,827ns
+74d917a1, d6f0300c: 0 meetings, time = 1,274,888,100ns
+74d917a1, 95f1b6bd: 0 meetings, time = 1,287,452,744ns
+74d917a1, f8c4ee12: 0 meetings, time = 1,430,837,711ns
+74d917a1, 27cb9c6f: 0 meetings, time = 1,290,645,825ns
+74d917a1, 1bd4e1e0: 0 meetings, time = 1,313,316,759ns
+8395c4df, 042e36bd: 1 meetings, time = 1,294,432,967ns
+8395c4df, d6f0300c: 1 meetings, time = 1,278,366,138ns
+8395c4df, 95f1b6bd: 2 meetings, time = 1,295,738,816ns
+8395c4df, f8c4ee12: 0 meetings, time = 1,439,585,026ns
+8395c4df, 27cb9c6f: 4 meetings, time = 1,309,288,732ns
+8395c4df, 1bd4e1e0: 0 meetings, time = 1,321,957,819ns
+042e36bd, d6f0300c: 0 meetings, time = 1,289,804,841ns
+042e36bd, 95f1b6bd: 9 meetings, time = 1,290,857,731ns
+042e36bd, f8c4ee12: 0 meetings, time = 1,425,146,433ns
+042e36bd, 27cb9c6f: 4 meetings, time = 1,300,941,684ns
+042e36bd, 1bd4e1e0: 0 meetings, time = 1,313,988,097ns
+d6f0300c, 95f1b6bd: 0 meetings, time = 1,284,329,694ns
+d6f0300c, f8c4ee12: 0 meetings, time = 1,418,540,516ns
+d6f0300c, 27cb9c6f: 0 meetings, time = 1,288,817,153ns
+d6f0300c, 1bd4e1e0: 0 meetings, time = 1,305,105,549ns
+95f1b6bd, f8c4ee12: 0 meetings, time = 1,435,737,512ns
+95f1b6bd, 27cb9c6f: 19 meetings, time = 1,300,140,546ns
+95f1b6bd, 1bd4e1e0: 0 meetings, time = 1,339,447,619ns
+f8c4ee12, 27cb9c6f: 0 meetings, time = 1,455,162,842ns
+f8c4ee12, 1bd4e1e0: 41 meetings, time = 1,480,710,507ns
+27cb9c6f, 1bd4e1e0: 0 meetings, time = 1,323,111,530ns
+[success] Total time: 165 s, completed 09.08.2017 2:15:39
